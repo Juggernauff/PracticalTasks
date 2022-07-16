@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UnitTests": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\Code\\PracticalTasks\\Mindbox\\Shapes\\UnitTests"
+    }
+  }
+}
