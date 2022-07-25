@@ -8,6 +8,11 @@
             Radius = radius;
         }
 
+        public double v
+        {
+            get { return v; }
+            set { v = value; }
+        }
         public double Radius
         {
             get => _radius;
